@@ -11,7 +11,7 @@
   </a>
 </div>
 <div>
-  <h1>Linguagens que domino</h1>
+  <h1>Linguagens que estudo</h1>
    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=86&color=currentColor">
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=86&color=currentColor" alt="">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=86&color=currentColor" alt="">
