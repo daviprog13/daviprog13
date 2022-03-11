@@ -1,6 +1,6 @@
 <h1>Olá sou o Davi</h1>
 
-🔭 Atualmente hoje trabalho na area front end <br>
+🔭 Atualmente trabalho na area front end <br>
 🌱 Estou aprendendo React e Node Js <br>
 👯 Pretendo colaborar tanto na area de front-end quanto na de back-end. <br>
 
