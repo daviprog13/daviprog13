@@ -18,6 +18,7 @@
    <img src="https://icongr.am/devicon/sass-original.svg?size=86&color=currentColor" alt="">
   <img src="https://icongr.am/devicon/react-original.svg?size=86&color=currentColor" alt="">
    <img src="https://icongr.am/devicon/typescript-original.svg?size=86&color=currentColor" alt="">
+   <img src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=currentColor" alt="">
 </div>
 <div>
   <h1>Linguagens futuras</h1> 
