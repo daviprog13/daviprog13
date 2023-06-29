@@ -1,7 +1,7 @@
 <h1>Olá sou o Davi</h1>
 
-🔭 Atualmente trabalho na area front end <br>
-🌱 Estou aprendendo React e Node Js <br>
+🔭 Atualmente trabalho na area front end com Next.js integração com context API conheço um pouco de Redux<br>
+🌱 Estou aprendendo Jest <br>
 👯 Pretendo colaborar tanto na area de front-end quanto na de back-end. <br>
 
 <div> 
@@ -23,6 +23,8 @@
   <h1>Linguagens futuras</h1> 
  <img src="https://icongr.am/devicon/nodejs-original.svg?size=86&color=currentColor" alt="">
  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=86&color=currentColor" alt="">
+ <img src="[https://icongr.am/devicon/mysql-original-wordmark.svg?size=86&color=currentColor](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor
+)" alt="">
 </div>
 <div>
   <h4>Redes sociais</h4>
